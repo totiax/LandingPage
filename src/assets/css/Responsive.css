@@ -85,7 +85,7 @@
     background-size: cover ;
     width: 100vw !important;
     height: 100vh !important;
-    background-image:url("C:\Users\matias\Desktop\PruebaTabajo\Lpage\my-app\src\assets\statics\fondoMontaña.jpg") 
+    background-image:url("../statics/fondoMontaña.jpg") 
     }
     
     .carousel-inner{
