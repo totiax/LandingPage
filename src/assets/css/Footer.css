@@ -1,0 +1,70 @@
+.Footer{
+    width: 100%;
+    height: 172px;
+    background-color: #343434;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: whitesmoke;
+
+}
+.Info{
+    width: 14%;
+    display: flex;
+    justify-content: space-between;
+    height: 50%;
+}
+.ILeft{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.IRight{
+    display: flex;
+    flex-direction: column;
+    height: 64%;
+    justify-content: space-between;
+   
+}
+.Follow{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80%;
+    justify-content: space-around;
+}
+.Redes{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.Info a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+.CopyR{
+    display: flex;
+    flex-direction: column;
+    height: 54%;
+    justify-items: start;
+}
+.CopyR p {
+    color: #E0752F;
+}
+.OrderFooter{
+    width: 100%;
+    height: 172px;
+    background-color: #343434;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: whitesmoke;
+}
+ .Redes .hover:hover{
+    background-color: #E0752F;
+    
+ }
+ .CopyR img{
+    width: 90px;
+ }

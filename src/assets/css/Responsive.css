@@ -1,0 +1,96 @@
+@media only screen and (max-width: 968px) {
+    .navbar{
+        width: 100%;
+        display: flex;
+        text-align: end;
+    }
+    .contLeft {
+        width: 100% !important;
+        height: 83%;
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+    }
+    .contRight{
+        display: none;
+    }
+    .Info{
+        display: none !important;
+    }
+    .CopyR{
+        width: 30%;
+        height: 60%;
+        justify-content: end;
+    }
+    .CopyR img{
+        width: 30%;
+    }
+    .carousel-inner h1{
+        font-size: 20px !important;
+    }
+    .carousel-inner p{
+        font-size: 15px;
+    }
+    .carousel-inner button{
+        width: 103px !important;
+    }
+    
+  }
+  @media only screen and (max-width: 420px){
+    .Oleft{
+        display: none !important;
+    }
+    .order{
+        font-size: 11px;
+    } 
+    .serv{font-size: 11px;}  
+    
+    .Sbottom h4{
+       font-size: 11px;
+    }
+    .Sbottom{
+        height: 50%;
+        align-items: baseline;
+    }
+    .slick-dots{
+        display: none !important;
+    }
+    .OrderFooter{
+        display: flex;
+    flex-direction: column-reverse;
+    height: 100%;
+    }
+    .CopyR{
+        font-size: 9px;
+    }
+    .Redes{
+        width: 231% !important;
+    }
+    .MoreDetails{
+        font-size: 12px;
+        margin-top: 0;
+    }
+    .ContBottom{
+        width: 100% !important;
+        height: 88% !important;
+    }
+    .ContBottom p {
+        font-size: 10px !important;
+    }
+    .flex{
+        height: 30% !important;
+        align-items: center;
+    }
+    .carousel{
+    background-size: cover ;
+    width: 100vw !important;
+    height: 100vh !important;
+    background-image:url("C:\Users\matias\Desktop\PruebaTabajo\Lpage\my-app\src\assets\statics\fondoMontaña.jpg") 
+    }
+    
+    .carousel-inner{
+        display: none;
+    }
+
+
+  }

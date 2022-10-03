@@ -1,0 +1,25 @@
+.carousel{
+    position: relative;
+    top: -116px;
+    z-index: -1;
+}
+.carousel-caption{
+    display: flex;
+    
+    text-align: inherit;
+    height: 60%;
+    width: 40%;
+    text-align: left !important;
+}
+.carousel-caption button{
+    border-radius: 55px;
+    padding: 10px;
+    background-color: #E0752F;
+    color: white;
+    width: 123px;
+    height: 47px;
+    border-color: #E0752F;
+}
+.carousel-item{
+    height: 100vh;
+}

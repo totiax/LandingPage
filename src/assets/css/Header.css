@@ -1,0 +1,13 @@
+.Header{
+    position: relative;
+    border-bottom: solid 1px #E0752F;
+    height: 90px;
+    width: 100%;
+    
+}
+.Header a {
+    color: #FFFFFF;
+}
+.Header nav {
+    height: 100px;
+}
